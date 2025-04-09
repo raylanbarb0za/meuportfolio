@@ -54,7 +54,6 @@ section {
     font-weight: bold;
     transition: 0.3s;
 }
-
 #curriculo:hover {
     background: #156d01;
     transform: translateY(-3px);
@@ -84,7 +83,7 @@ section {
         padding: 15px;
         margin: 15px 0; 
     }
-
+    
     .secao1, h2 {
         font-size: 25px;
     }
@@ -105,19 +104,16 @@ section {
 .redes-sociais {
     text-align: left;
   }
-  
 .redes-sociais a {
     margin: 0 1px;         
     display: inline-block;   
   }
-  
 .redes-sociais img {
     width: 40px;
     min-width: 30px;            
     transition: 0.3s;
     padding: 8px;   
   }
-  
 .redes-sociais img:hover {
     transform: scale(1.1);  
   }
